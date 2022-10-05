@@ -1,5 +1,1 @@
-#!/bin/bash
-.ls -a
-ls -la
-#!/bin/bash
-ls -la
+ls -al
